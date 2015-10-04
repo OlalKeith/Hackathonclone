@@ -33,7 +33,23 @@ body{
   background-size: cover;
   filter: blur(0.5%);
 }
+
 .centy{
+  position: relative;
   text-align: center;
-  left: 30%;
+  left: 22%;
+  color: white;
+}
+.logo-color{
+  color:green;
+  font-size: 26px;
+}
+.first-part{
+    font-size: 26px;
+}
+.bg-btn{
+  width: 50%;
+  height: 60%;
+  font-size: 36px;
+  color: white;
 }
