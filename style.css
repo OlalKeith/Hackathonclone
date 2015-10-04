@@ -23,4 +23,17 @@
 .nav-bar{
   font-style: "Nunito";
   font-size: 18px;
-  color:w
+  color:
+      
+}
+body{
+ background-image: url(assets/6826534-hd-background.jpg); -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  filter: blur(0.5%);
+}
+.centy{
+  text-align: center;
+  left: 30%;
+}
